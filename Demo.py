@@ -9,3 +9,5 @@ print("GitHub allows me to track changes and see the history of my code.")
 
 print("GitHub is a powerful tool for developers and teams.")
 print("I am excited to continue learning and using GitHub in my projects.")
+
+print("Thank you for reading this demo file!")
